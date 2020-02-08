@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="xmlstyle.css"?>
+<Setlist>Setlist:
+    <Song class="one">
+        <SongName>Tattoos Together</SongName>
+        <YearReleased>2020</YearReleased>
+        <ArtistName>Lauv</ArtistName>
+        <Genre>Pop</Genre>
+    </Song>
+    <Song class="two">
+        <SongName>Changes</SongName>
+        <YearReleased>2020</YearReleased>
+        <ArtistName>Lauv</ArtistName>
+        <Genre>Pop</Genre>
+    </Song>
+    <Song class="three">
+        <SongName>Mean It</SongName>
+        <YearReleased>2020</YearReleased>
+        <ArtistName>Lauv, LANY</ArtistName>
+        <Genre>Pop</Genre>
+    </Song>
+    <Song class="four">
+        <SongName>Sims</SongName>
+        <YearReleased>2019</YearReleased>
+        <ArtistName>Lauv</ArtistName>
+        <Genre>Pop</Genre>
+    </Song>
+    <Song class="five">
+        <SongName>Feelings</SongName>
+        <YearReleased>2019</YearReleased>
+        <ArtistName>Lauv</ArtistName>
+        <Genre>Pop</Genre>
+    </Song>
+    <Song class="six">
+        <SongName>i'm lonely</SongName>
+        <YearReleased>2019</YearReleased>
+        <ArtistName>Lauv, Anne-Marie</ArtistName>
+        <Genre>Pop</Genre>
+    </Song>
+    <Song class="seven">
+        <SongName>Sad Forever</SongName>
+        <YearReleased>2019</YearReleased>
+        <ArtistName>Lauv</ArtistName>
+        <Genre>Pop</Genre>
+    </Song>
+    <Song class="eight">
+        <SongName>Drugs And The Internet</SongName>
+        <YearReleased>2019</YearReleased>
+        <ArtistName>Lauv</ArtistName>
+        <Genre>Pop</Genre>
+    </Song>
+    <Song class="nine">
+        <SongName>i'm so tired...</SongName>
+        <YearReleased>2019</YearReleased>
+        <ArtistName>Lauv, Troye Sivan</ArtistName>
+        <Genre>Pop</Genre>
+    </Song>
+    <Song class="ten">
+        <SongName>Make It Right</SongName>
+        <YearReleased>2019</YearReleased>
+        <ArtistName>Lauv, BTS</ArtistName>
+        <Genre>Pop</Genre>
+    </Song>
+</Setlist>
