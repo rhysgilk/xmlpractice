@@ -1,0 +1,22 @@
+Setlist {
+    font-size: 20px;
+    color: black;
+    font-family: "Trebuchet MS", arial;
+}
+SongName {
+    color: black;
+    font-family: "Times New Roman", arial;
+    font-style: italic;
+}
+YearReleased {
+    font-size: 16px;
+}
+ArtistName {
+    font-size: 16px;
+    color: red;
+    font-style: underline;
+}
+Genre {
+    font-size: 16px;
+    font-style: bold;
+}
