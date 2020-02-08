@@ -7,7 +7,6 @@ SongName {
     color: black;
     font-family: "Times New Roman", arial;
     font-style: italic;
-    padding: 10px;
 }
 YearReleased {
     font-size: 16px;
