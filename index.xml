@@ -2,13 +2,13 @@
 <?xml-stylesheet type="text/css" href="xmlstyle.css"?>
 <Setlist>Setlist:
     <Song class="one">
-        <SongName>Tattoos Together<br /></SongName>
+        <SongName>Tattoos Together</SongName>
         <YearReleased>2020</YearReleased>
         <ArtistName>Lauv</ArtistName>
         <Genre>Pop</Genre>
     </Song>
     <Song class="two">
-        <SongName>Changes<br /></SongName>
+        <SongName>Changes</SongName>
         <YearReleased>2020</YearReleased>
         <ArtistName>Lauv</ArtistName>
         <Genre>Pop</Genre>
